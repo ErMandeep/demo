@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/yoblogge/repositories/demo/
+    - export DEPLOYPATH=/home3/yoblogge/test.yoblogger.com
     - /bin/cp -R images $DEPLOYPATH
